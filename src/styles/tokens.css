@@ -1,0 +1,39 @@
+:root {
+  /* 品牌：深蓝金融客户端 */
+  --brand-navy: #0b1f33;
+  --brand-navy-mid: #14304a;
+  --brand-accent: #1a6b5c;
+  --brand-accent-hover: #15574b;
+  --brand-gold: #b08d57;
+
+  --surface-page: #f3f5f8;
+  --surface-panel: #ffffff;
+  --surface-sidebar: #0b1f33;
+  --surface-muted: #e8edf3;
+
+  --text-primary: #1a2332;
+  --text-secondary: #5a6577;
+  --text-inverse: #f5f7fa;
+  --text-muted: #8a94a6;
+
+  --border-subtle: #dce3ec;
+  --border-strong: #c5ced9;
+
+  /* 行情：红涨绿跌（国内惯例） */
+  --quote-up: #c62828;
+  --quote-down: #2e7d32;
+  --quote-flat: #5a6577;
+
+  --danger: #b71c1c;
+  --warn: #ed6c02;
+  --ok: #2e7d32;
+
+  --sidebar-width: 220px;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --shadow-panel: 0 1px 2px rgba(11, 31, 51, 0.06), 0 4px 16px rgba(11, 31, 51, 0.04);
+
+  --font-display: 'Source Serif 4', 'Noto Serif SC', 'Songti SC', serif;
+  --font-body: 'IBM Plex Sans', 'Noto Sans SC', 'PingFang SC', sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+}
