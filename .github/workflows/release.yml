@@ -71,7 +71,7 @@ jobs:
             |------|------|
             | macOS Apple Silicon | `.dmg`（aarch64） |
             | macOS Intel | `.dmg`（x86_64） |
-            | Windows | `.msi` / `.exe` |
+            | Windows | `-setup.exe`（NSIS） |
             | Linux | `.deb` / `.AppImage` |
 
             请从下方 Assets 下载对应平台安装包。
